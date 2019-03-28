@@ -51,3 +51,4 @@ community connections.
 
 ## Resources
 
+- [Flatiron Help: Raising an Issue with a Lab or Lesson](https://help.learn.co/technical-support/improving-learn/raising-an-issue-with-a-lab-or-lesson)
