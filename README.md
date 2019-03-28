@@ -15,11 +15,12 @@ run through some tips to keep in mind when posting issues on others' projects.
 
 ## Identify Best Practice for Posting Issues
 
-Most often when you post an issue to a project, you'll be following the workflow
-for GitHub [find and insert link to Flatiron issue posting docs]. In this
-lesson, we're not concerned with the technical details of _how to post an
-issue_, but _how to define and describe your issue_ so that it will be clear to the
-project maintainer what the problem is and how to solve it.
+Most often when you post an issue to a project, you'll be following the
+[workflow for GitHub
+issues](https://help.learn.co/technical-support/improving-learn/raising-an-issue-with-a-lab-or-lesson).
+In this lesson, we're not concerned with the technical details of _how to post
+an issue_, but _how to define and describe your issue_ so that it will be clear
+to the project maintainer what the problem is and how to solve it.
 
 Here are some things to consider before you post an issue:
 
