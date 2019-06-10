@@ -42,6 +42,22 @@ making demands or disparaging remarks. You'll make a better impact in the
 community if you approach posting issues as a way you can help the project
 improve rather than a fix you are entitled to.
 
+- __Leverage the Issues Tab of GitHub.__ Often Google searches will point you
+back to **CLOSED** status issues that might ask your same question. Be sure
+and appreciate the debugging technique applied so that when you see the solution
+post you can understand where you might need to make tweaks. If someone fixes
+the same error message by doing something with a library like `foolib-3.5.4`,
+and on your system, you have `foolib-3.5.5`, you're going to be expected to have
+made that "tweak" yourself.
+
+- __Don't Comment on Closed Issues__. When you see a closed issue, realize that
+while the error message might be the same, in the maintainers' minds this is a
+*new* issue. If it is a duplicate, let the maintainers decide that. As a professional
+courtesy, we recommend opening up a new issue and adding in the body: "This might
+be a repeat of issue #13 (URL)." Then you demonstrate that you know not to comment
+on old issues **and** you did your research. By showing this respect the maintainers
+and community will know you to be an appreciative, thoughtful, community member.
+
 ## Conclusion
 
 Out in the open-source community, you will sometimes run into code that could be
